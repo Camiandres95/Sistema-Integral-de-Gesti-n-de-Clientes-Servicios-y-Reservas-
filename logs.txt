@@ -1,0 +1,28 @@
+Cliente() takes no arguments
+Cliente() takes no arguments
+Cliente() takes no arguments
+name 'c1' is not defined
+name 'c1' is not defined
+name 'c1' is not defined
+name 'r1' is not defined
+Error manual de prueba
+cliente() takes no arguments
+cliente() takes no arguments
+cliente() takes no arguments
+name 'c1' is not defined
+name 'c1' is not defined
+name 'c1' is not defined
+name 'r1' is not defined
+Error manual de prueba
+name 'Cliente' is not defined
+name 'Cliente' is not defined
+name 'Cliente' is not defined
+name 'c1' is not defined
+name 'c1' is not defined
+name 'c1' is not defined
+name 'r1' is not defined
+Error manual de prueba
+El nombre del cliente no puede estar vacío.
+El correo electrónico no es válido.
+Días Invalidos.
+Error manual de prueba
